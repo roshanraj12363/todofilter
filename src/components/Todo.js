@@ -24,9 +24,11 @@ const Todo = ({text, todo, todos, setTodos}) => {
             </button>
             <button onClick={deleteHandler} className="trash-btn">
                 <i className="fas fa-trash"></i>
+                <i className="fas fa-trash"></i>
             </button>
         </div>
     );
 }
+
 
 export default Todo;
