@@ -33,6 +33,7 @@ function App() {
     <div className="App">
       <header>
         <h1>My TODO List</h1>
+        <h1>My TODO List</h1>
       </header>
       <Form 
       inputText={inputText} 
